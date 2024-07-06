@@ -1,4 +1,4 @@
-# php-user-authentication
+# PHP-Authentication-API
 
 Build PHP 7 user authentication and login system with MySQL and Bootstrap 4 using procedural programming approach.
 
