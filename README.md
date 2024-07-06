@@ -1,9 +1,5 @@
 # php-user-authentication
 
-<center>
-  <img src="https://www.freepik.com/premium-vector/login-page-system-abstract-background-template_39677175.html" />
-</center>
-
 Build PHP 7 user authentication and login system with MySQL and Bootstrap 4 using procedural programming approach.
 
 
